@@ -60,9 +60,9 @@ extra:
   manifest: 'manifest.json'
   social:
     - icon: 'fontawesome/brands/github-alt'
-      link: 'https://github.com/peaceiris'
+      link: 'https://github.com/per1'
     - icon: 'fontawesome/brands/twitter'
-      link: 'https://twitter.com/piris314en'
+      link: 'https://twitter.com/frdric_per1'
 
 # Page tree
 nav:
