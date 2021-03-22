@@ -22,17 +22,8 @@ theme:
     next: 78     # n
     previous: 80 # p
     search: 83   # s
-  #palette:
-    #primary: 'blue'
-    #accent: 'blue'
   features:
     - tabs
-  #font:
-    #text: 'Ubuntu'
-    #code: 'Ubuntu Mono'
-  #icon:
-    #logo: 'images/logo.svg'
-  #favicon: 'assets/images/favicon.ico'
 
 # Extensions
 markdown_extensions:
